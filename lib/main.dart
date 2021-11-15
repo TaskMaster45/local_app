@@ -28,6 +28,7 @@ class MyApp extends StatelessWidget {
         Locale('es', ''), // Spanish, no country code
         Locale('ar', ''),
       ],
+
       home: HomeScreen(),
     );
   }
